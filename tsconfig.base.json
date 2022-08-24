@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@pablodev/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+      "@pablodev/api-interfaces": ["libs/api-interfaces/src/index.ts"],
+      "@pablodev/ui": ["libs/ui/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

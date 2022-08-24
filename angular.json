@@ -5,6 +5,7 @@
     "api": "apps/api",
     "api-interfaces": "libs/api-interfaces",
     "pablodev": "apps/pablodev",
-    "pablodev-e2e": "apps/pablodev-e2e"
+    "pablodev-e2e": "apps/pablodev-e2e",
+    "ui": "libs/ui"
   }
 }
